@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.claude/settings.local.json
+# Cached API responses and page snapshots (~40 MB); get_data.py re-downloads them
+data/raw/
+state_ai_bills/data/raw/

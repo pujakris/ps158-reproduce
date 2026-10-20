@@ -1,0 +1,192 @@
+state,state_code,bill_number,status_text,introduced_ym,enacted_ym,outcome,outcome_ym,bill_url
+Alabama,AL,HB 172,Enacted May 2024,,2024-05,Enacted,2024-05,https://www.legislature.state.al.us/pdf/SearchableInstruments/2024RS/HB172-int.pdf
+Alaska,AK,SB 64,"Introduced Jan. 2025, Passed Senate May 2025, Passed House 2026, Election deepfake provision removed",2025-01,,Provision removed,,https://www.akleg.gov/basis/Bill/Detail/34?Root=SB64
+Alaska,AK,SB 2,"Introduced Jan. 2025, Failed May 2026",2025-01,,Failed,2026-05,https://www.akleg.gov/basis/Bill/Detail/34?Root=SB2#tab1_4
+Alaska,AK,SB 33,"Introduced Jan. 2025, Failed May 2026",2025-01,,Failed,2026-05,https://www.akleg.gov/basis/Bill/Detail/34?Root=SB33#tab1_4
+Alaska,AK,HB 358,"Passed House May 2024, Failed May 2024",,,Failed,2024-05,https://www.akleg.gov/basis/Bill/Detail/33?Root=HB358
+Alaska,AK,SB 177,Failed May 2024,,,Failed,2024-05,https://www.akleg.gov/basis/Bill/Detail/33?Root=SB177
+Alaska,AK,HB 306,Failed May 2024,,,Failed,2024-05,https://www.akleg.gov/basis/Bill/Detail/33?Root=HB306
+Arizona,AZ,SB 1515,"Introduced Feb. 2024, Incorporated into passed bill May 2024",2024-02,,Superseded,2024-05,https://apps.azleg.gov/BillStatus/BillOverview/81070
+Arizona,AZ,HB 2394,Enacted May 2024,,2024-05,Enacted,2024-05,https://apps.azleg.gov/BillStatus/BillOverview/80254
+Arizona,AZ,SB 1359,Enacted May 2024,,2024-05,Enacted,2024-05,https://apps.azleg.gov/BillStatus/BillOverview/80882
+Arkansas,AR,HB 1041,"Introduced Nov 2024, Failed May 2025",2024-11,,Failed,2025-05,https://www.arkleg.state.ar.us/Bills/Detail?id=hb1041&ddBienniumSession=2025%2F2025R
+Arkansas,AR,HB 1141,"Introduced Jan. 2025, Failed May 2025",2025-01,,Failed,2025-05,https://arkleg.state.ar.us/Bills/Detail?id=hb1141&ddBienniumSession=2025%2F2025R
+California,CA,AB 502,"Introduced Feb. 2025, Passed House Apr. 2025, Enacted Sept. 2026",2025-02,2026-09,Enacted,2026-09,https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB502
+California,CA,AB 730,Enacted Oct. 2019,,2019-10,Enacted,2019-10,https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB730
+California,CA,AB 972,Enacted Sept. 2022,,2022-09,Enacted,2022-09,https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB972
+California,CA,AB 2355,Enacted Sept. 2024,,2024-09,Enacted,2024-09,https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2355
+California,CA,AB 2839,Enacted Sept. 2024,,2024-09,Enacted,2024-09,https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2839
+California,CA,AB 2655,Enacted Sept. 2024,,2024-09,Enacted,2024-09,https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2655
+Colorado,CO,HB 1147,Enacted May 2024,,2024-05,Enacted,2024-05,https://leg.colorado.gov/bills/hb24-1147
+Connecticut,CT,HB 5342,"Introduced Feb 2026, Failed May 2026",2026-02,,Failed,2026-05,https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05342&which_year=2026
+Connecticut,CT,HB 6846,"Introduced Jan. 2025, Failed June 2025",2025-01,,Failed,2025-06,https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB06846&which_year=2025
+Connecticut,CT,SB 2,"Passed Senate April 2024, Failed May 2024",,,Failed,2024-05,https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00002&which_year=2024
+Connecticut,CT,HB 5450,Failed May 2024,,,Failed,2024-05,https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05450&which_year=2024
+Delaware,DE,HB 316 HS 1,Enacted October 2024,,2024-10,Enacted,2024-10,https://legis.delaware.gov/BillDetail/141109
+District of Columbia,DC,B26-0329,Introduced July 2025,2025-07,,Pending,2025-07,https://lims.dccouncil.gov/Legislation/B26-0329
+District of Columbia,DC,B25-0832,"Introduced June 2024, Failed Dec. 2024",2024-06,,Failed,2024-12,https://lims.dccouncil.gov/Legislation/B25-0832
+Florida,FL,SB 850,"Tabled Mar. 2024, Failed",,,Failed,,https://www.flsenate.gov/Session/Bill/2024/850
+Florida,FL,HB 919,Enacted April 2024,,2024-04,Enacted,2024-04,https://www.flsenate.gov/Session/Bill/2024/919/ByVersion
+Georgia,GA,SB 9,"Passed Sen. Mar. 2025, Passed House Mar. 2025, Failed Jan. 2026",,,Failed,2026-01,https://www.legis.ga.gov/legislation/69351
+Georgia,GA,HB 986,Passed House Feb. 2024; Senate Tabled March 2024,,,Failed,2024-03,https://www.legis.ga.gov/legislation/66172
+Hawaii,HI,HB 1766,"Passed House Mar. 2024, Incorporated into passed bill July 2024",,,Superseded,2024-07,https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1766&year=2024
+Hawaii,HI,SB 2687,Enacted July 2024 Struck down,,2024-07,Enacted,2024-07,https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2687&year=2024
+Hawaii,HI,HB 1734,"Introduced Jan. 2024, Incorporated into passed bill July 2024",2024-01,,Superseded,2024-07,https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1734&year=2024
+Idaho,ID,SB 1422,"Introduced Mar. 2026, Failed Apr. 2026",2026-03,,Failed,2026-04,https://legislature.idaho.gov/sessioninfo/2026/legislation/S1422/
+Idaho,ID,HB 442,"Introduced Mar. 2025, Failed Apr. 2025",2025-03,,Failed,2025-04,https://legislature.idaho.gov/sessioninfo/2025/legislation/H0442/
+Idaho,ID,HB 426,"Introduced Jan. 2024, Re-introed as HB 565 Feb 2024",2024-01,,Superseded,2024-02,https://legislature.idaho.gov/sessioninfo/2024/legislation/H0426/
+Idaho,ID,HB 565,"Introduced Feb. 2024, Re-introed as HB 664 Feb 2024",2024-02,,Superseded,2024-02,https://legislature.idaho.gov/sessioninfo/2024/legislation/H0565/
+Idaho,ID,HB 664,Enacted Mar. 2024,,2024-03,Enacted,2024-03,https://legislature.idaho.gov/sessioninfo/2024/legislation/H0664/
+Illinois,IL,HB 1832 (Elections omnibus),Deepfake provision integrated May 2026,,,Superseded,2026-05,https://www.ilga.gov/Legislation/BillStatus?DocNum=1832&GAID=18&DocTypeID=HB&SessionID=114&GA=104
+Illinois,IL,SB 2996,"Introduced Jan 2026, Integrated into election omnibus May 2026",2026-01,,Superseded,2026-05,https://www.ilga.gov/Legislation/BillStatus?DocNum=2996&GAID=18&DocTypeID=SB&SessionID=114&GA=104
+Illinois,IL,HB 1860,"Introduced Feb. 2025, Integrated into election omnibus May 2026",2025-02,,Superseded,2026-05,https://www.ilga.gov/legislation/BillStatus.asp?DocNum=1860&GAID=18&DocTypeID=HB&SessionID=114&GA=104
+Illinois,IL,HB 3303,"Introduced Feb. 2025, Integrated into election omnibus May 2026",2025-02,,Superseded,2026-05,https://www.ilga.gov/legislation/BillStatus.asp?DocNum=3303&GAID=18&DocTypeID=HB&SessionID=114&GA=104
+Illinois,IL,SB 150,"Introduced Jan. 2025, Integrated into election omnibus May 2026",2025-01,,Superseded,2026-05,https://www.ilga.gov/legislation/BillStatus.asp?DocNum=150&GAID=18&DocTypeID=SB&SessionID=114&GA=104
+Illinois,IL,SB 1742,"Introduced Feb. 2023, Failed May 2024",2023-02,,Failed,2024-05,https://www.ilga.gov/legislation/BillStatus.asp?DocNum=1742&GAID=17&DocTypeID=SB&SessionID=112&GA=103
+Illinois,IL,HB 4933,"Introduced Feb. 2024, Failed May 2024",2024-02,,Failed,2024-05,https://ilga.gov/legislation/BillStatus.asp?DocNum=4933&GAID=17&DocTypeID=HB&LegId=152834&SessionID=112&GA=103
+Illinois,IL,HB 4644,"Introduced Feb. 2024, Failed May 2024",2024-02,,Failed,2024-05,https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=4644&GAID=17&SessionID=112&LegID=152116
+Indiana,IN,SB7,"Introduced Jan. 2024, Failed March 2024",2024-01,,Failed,2024-03,https://iga.in.gov/legislative/2024/bills/senate/7/details
+Indiana,IN,HB 1228,"Introduced Jan. 2024, Failed March 2024",2024-01,,Failed,2024-03,https://iga.in.gov/legislative/2024/bills/house/1228/details
+Indiana,IN,HB 1225,"Introduced Jan. 2024, Failed March 2024",2024-01,,Failed,2024-03,https://iga.in.gov/legislative/2024/bills/house/1225/details
+Indiana,IN,HB 1133,Enacted Mar. 2024,,2024-03,Enacted,2024-03,https://iga.in.gov/legislative/2024/bills/house/1133/actions
+Iowa,IA,HF 2609,"Reprint of HSB 643, Passed House Mar. 2026, Failed Apr. 2026",,,Failed,2026-04,https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2609
+Iowa,IA,HSB 643,"Introduced Jan 2026, Reprinted as HF 2609",2026-01,,Superseded,,https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HSB643
+Iowa,IA,HF 2082,"Introduced Jan 2026, Failed Apr. 2026",2026-01,,Failed,2026-04,https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2082
+Iowa,IA,HF 2150,"Introduced Jan 2026, Failed Apr. 2026",2026-01,,Failed,2026-04,https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF2150
+Iowa,IA,SF 2166,"Introduced Jan 2026, Failed Apr. 2026",2026-01,,Failed,2026-04,https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF2166
+Iowa,IA,HSB 294,"Introduced Mar. 2025, Failed Apr. 2026",2025-03,,Failed,2026-04,https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HSB294
+Iowa,IA,HF 2549,"Passed House Mar. 2024, Failed April 2024",,,Failed,2024-04,https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=HF2549
+Iowa,IA,SF 2318,Failed April 2024,,,Failed,2024-04,https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF2318
+Kansas,KS,SB 375,Failed Feb. 2025,,,Failed,2025-02,https://www.kslegislature.gov/li_2024/b2023_24/measures/sb375/
+Kansas,KS,HB 2559,Failed May 2024,,,Failed,2024-05,https://kslegislature.org/li/b2023_24/measures/hb2559/
+Kansas,KS,HB 2576,Failed May 2024,,,Failed,2024-05,https://www.kslegislature.org/li/b2023_24/measures/hb2576/
+Kentucky,KY,HB 21,"Introduced Jan. 2025, Failed Mar. 2025",2025-01,,Failed,2025-03,https://apps.legislature.ky.gov/record/25RS/hb21.html
+Kentucky,KY,SB 4 / HB 672,"Passed Senate Feb. 2025, Passed House Mar. 2025, Enacted Mar. 2025",,2025-03,Enacted,2025-03,https://apps.legislature.ky.gov/record/25RS/sb4.html
+Kentucky,KY,HB 45,"Passed House Feb. 2024, Failed April 2024",,,Failed,2024-04,https://apps.legislature.ky.gov/record/24rs/hb45.html
+Kentucky,KY,SB 131,"Passed House Feb. 2024, Failed April 2024",,,Failed,2024-04,https://apps.legislature.ky.gov/record/24RS/sb131.html
+Louisiana,LA,HB 459,"Introduced Feb. 2026, Passed House May 2026 Passed Senate May 2026, Enacted June 2026",2026-02,2026-06,Enacted,2026-06,https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB459&sbi=y
+Louisiana,LA,HB 154,"Passed May 2024, Vetoed by Gov. June 2024",,,Vetoed,2024-06,https://legis.la.gov/legis/BillInfo.aspx?i=245718
+Louisiana,LA,SB 97,"Passed May 2024, Vetoed by Gov. June 2024",,,Vetoed,2024-06,https://www.legis.la.gov/legis/BillInfo.aspx?s=24rs&b=SB97&sbi=y
+Louisiana,LA,SB 9,"Introduced Mar. 2024, Failed June 2024",2024-03,,Failed,2024-06,https://www.legis.la.gov/legis/BillInfo.aspx?s=24rs&b=SB9&sbi=y
+Maine,ME,LD 517,"Carryover of LD 1690, Enacted Mar. 2026",,2026-03,Enacted,2026-03,https://legislature.maine.gov/legis/bills/display_ps.asp?LD=517&snum=132
+Maine,ME,LD 1690,"Introduced Apr. 2025, Failed May 2025",2025-04,,Failed,2025-05,https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1690&snum=132
+Maine,ME,LD 1988,Failed Nov. 2020,,,Failed,2020-11,https://www.mainelegislature.org/legis/bills/display_ps.asp?paper=SP0690&PID=undefined&snum=129
+Maryland,MD,SB 141,"Introduced Jan 2026, Passed Senate Feb 2026, Passed House Apr. 2026, Enacted May 2026",2026-01,2026-05,Enacted,2026-05,https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0141?ys=2026RS
+Maryland,MD,HB 145,"Introduced Jan. 2026, Passed House Apr. 2026, Failed Apr. 2026",2026-01,,Failed,2026-04,https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0145?ys=2026RS
+Maryland,MD,SB 361,"Introduced Jan. 2025, Passed Senate Mar. 2025, Passed House Apr. 2025, Failed Apr. 2025",2025-01,,Failed,2025-04,https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0361?ys=2025RS
+Maryland,MD,HB 525,"Introduced Jan. 2025, Passed House Apr. 2025, Failed Apr. 2025",2025-01,,Failed,2025-04,https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0525?ys=2025RS
+Maryland,MD,HB 740,"Introduced Jan. 2025, Failed Apr. 2025",2025-01,,Failed,2025-04,https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0740?ys=2025RS
+Maryland,MD,HB 872,Failed April 2024,,,Failed,2024-04,https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0872?ys=2024RS
+Maryland,MD,SB 978,Passed Senate Mar. 2024; Failed in House April 2024,,,Failed,2024-04,https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0978?ys=2024RS#
+Massachusetts,MA,H 5093,"Introduced Feb 2026, Passed House Feb 2026, Failed July 2026",2026-02,,Failed,2026-07,https://malegislature.gov/Bills/194/H5093
+Massachusetts,MA,H 5094,"Introduced Feb 2026, Passed House Feb 2026, Failed July 2026",2026-02,,Failed,2026-07,https://malegislature.gov/Bills/194/H5094
+Massachusetts,MA,H 76,"Introduced Mar. 2025, Substituted by H 5093",2025-03,,Superseded,,https://malegislature.gov/Bills/194/H76
+Massachusetts,MA,H 846,"Introduced Mar. 2025, Substituted by H 5094",2025-03,,Superseded,,https://malegislature.gov/Bills/194/H846
+Massachusetts,MA,S 2631,"Introduced Oct. 2025, Failed July 2026",2025-10,,Failed,2026-07,https://malegislature.gov/Bills/194/S2631
+Massachusetts,MA,S 44,"Introduced Mar. 2025, Re-introduced as S 2631 Oct. 2025",2025-03,,Superseded,2025-10,https://malegislature.gov/Bills/194/S44/BillHistory
+Massachusetts,MA,S. 2831,"Introduced as S. 2730 in Jan 2024, Incorporated into passed bill",2024-01,,Superseded,,https://malegislature.gov/Bills/193/S2831
+Massachusetts,MA,H 5100 S 2856 Amendment 7,Enacted Nov 2024 (Sunset Feb 2025),,2024-11,Enacted,2024-11,https://malegislature.gov/Bills/193/H5100
+Michigan,MI,HB 5144,Enacted Nov. 2023,,2023-11,Enacted,2023-11,https://www.legislature.mi.gov/(S(wx3f154nzz00vdomxe3hsi4p))/mileg.aspx?page=getobject&objectname=2023-HB-5144
+Minnesota,MN,HF 1370,Enacted May 2023,,2023-05,Enacted,2023-05,https://www.revisor.mn.gov/bills/bill.php?b=house&f=HF1370&ssn=0&y=2023
+Minnesota,MN,SF 3550,See HF 4772,,,Superseded,,https://www.revisor.mn.gov/bills/text.php?number=SF3550&version=latest&session=ls93&session_year=2024&session_number=0
+Minnesota,MN,SF 4029,"Introduced Feb. 2024, Failed May 2024",2024-02,,Failed,2024-05,https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF4029&ssn=0&y=2023
+Minnesota,MN,HF 4772,Enacted May 2024,,2024-05,Enacted,2024-05,https://www.revisor.mn.gov/bills/text.php?number=HF4772&type=bill&version=1&session=ls93&session_year=2024&session_number=0
+Mississippi,MS,SB 2642,"Introduced Jan. 2025, failed Feb. 2025",2025-01,,Failed,2025-02,https://billstatus.ls.state.ms.us/2025/pdf/history/SB/SB2642.xml
+Mississippi,MS,HB 1689,"Passed House Mar. 2024, Failed April 2024",,,Failed,2024-04,https://billstatus.ls.state.ms.us/2024/pdf/history/HB/HB1689.xml
+Mississippi,MS,SB 2577,Enacted April 2024,,2024-04,Enacted,2024-04,https://billstatus.ls.state.ms.us/2024/pdf/history/SB/SB2577.xml
+Missouri,MO,SB 1012,"Introduced Jan 2026, Passed Senate May 2026, Failed May 2026",2026-01,,Failed,2026-05,https://www.senate.mo.gov/BillTracking/Bills/BillInformation?year=2026&BillID=469
+Missouri,MO,SB 1183,"Introduced Jan 2026, Failed May 2026",2026-01,,Failed,2026-05,https://legiscan.com/MO/bill/SB1183/2026
+Missouri,MO,SB 509,"Introduced Jan. 2025, Failed May 2025",2025-01,,Failed,2025-05,https://www.senate.mo.gov/25info/BTS_Web/Bill.aspx?SessionType=R&BillID=507385
+Missouri,MO,HB 673,"Introduced Jan. 2025, Failed May 2025",2025-01,,Failed,2025-05,https://house.mo.gov/Bill.aspx?bill=HB673&year=2025&code=R
+Missouri,MO,HB 2628,"Passed House Mar. 2024, Failed May 2024",,,Failed,2024-05,https://house.mo.gov/Bill.aspx?bill=HB2628&year=2024&code=R
+Missouri,MO,SB 1444,Failed May 2024,,,Failed,2024-05,https://www.senate.mo.gov/24info/BTS_Web/Bill.aspx?SessionType=R&BillID=5242854
+Montana,MT,LC 1795,"Draft in Progress Nov. 2024, Failed Apr. 2025",,,Failed,2025-04,https://bills.legmt.gov/#/lc/bill/2/LC1795
+Montana,MT,SB 25,"Introduced Jan. 2025, Passed Senate Mar. 2025, Passed House Apr. 2025, Enacted May 2025",2025-01,2025-05,Enacted,2025-05,https://bills.legmt.gov/#/laws/bill/2/LC0229?open_tab=sum
+Nebraska,NE,LB 615,"Introduced Jan. 2025, Carried over to 2026, Failed Apr. 2026",2025-01,,Failed,2026-04,https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59674
+Nebraska,NE,LB 1203,Indefinitely Postponed April 2024,,,Failed,2024-04,https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=55088
+Nevada,NV,AB 73,"Introduced Nov. 2024, Passed House Apr. 2025, Passed Senate May 2025, Enacted June 2025",2024-11,2025-06,Enacted,2025-06,https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11888/Text
+Nevada,NV,AB 271,"Introduced Feb. 2025, Failed April 2025",2025-02,,Failed,2025-04,https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12321/Overview
+New Hampshire,NH,HB 630,"Introduced Jan. 2025, Failed June 2025",2025-01,,Failed,2025-06,https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0638&sy=2025&sortoption=&txtsessionyear=2025&txtbillnumber=HB630
+New Hampshire,NH,HB 1596,Enacted August 2024,,2024-08,Enacted,2024-08,https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2305&sy=2024&sortoption=&txtsessionyear=2024&txtbillnumber=HB1596
+New Hampshire,NH,HB 1432,Enacted July 2024,,2024-07,Enacted,2024-07,https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2152&sy=2024&sortoption=&txtsessionyear=2024&txtbillnumber=HB1432
+New Hampshire,NH,HB 1500,Referred for Study Mar. 2024,,,Pending,2024-03,https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2743&sy=2024&sortoption=&txtsessionyear=2024&txtbillnumber=HB1500
+New Hampshire,NH,HB 1710,Failed Feb. 2024,,,Failed,2024-02,https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2758&sy=2024&sortoption=&txtsessionyear=2024&txtbillnumber=hb1710
+New Jersey,NJ,A 4163,Introduced Feb 2026,2026-02,,Pending,2026-02,https://www.njleg.state.nj.us/bill-search/2026/A4163
+New Jersey,NJ,S 2129 / A 3585,Introduced Jan 2026,2026-01,,Pending,2026-01,https://www.njleg.state.nj.us/bill-search/2026/S2129
+New Jersey,NJ,A 3600,Introduced Jan 2026,2026-01,,Pending,2026-01,https://www.njleg.state.nj.us/bill-search/2026/A3600
+New Jersey,NJ,A 4741 / S 3702,Introduced Mar. 2026,2026-03,,Pending,2026-03,https://www.njleg.state.nj.us/bill-search/2026/A4741
+New Jersey,NJ,A 2819,Introduced May 2023 as A 5511,2023-05,,Pending,2023-05,https://www.njleg.state.nj.us/bill-search/2024/A2819
+New Jersey,NJ,A 2818 / s 2543,"Passed Assembly June 2024, Failed Jan 2026",,,Failed,2026-01,https://www.njleg.state.nj.us/bill-search/2024/A2818
+New Jersey,NJ,A 3838,"Introduced Feb. 2024, Failed Jan 2026",2024-02,,Failed,2026-01,https://www.njleg.state.nj.us/bill-search/2024/A3838
+New Mexico,NM,HB 182,Enacted Mar. 2024,,2024-03,Enacted,2024-03,https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=182&year=24
+New York,NY,A 11683,"Introduced Sept. 2026, Failed Sept. 2026",2026-09,,Failed,2026-09,https://www.nysenate.gov/legislation/bills/2025/A11683
+New York,NY,A 10715,"Introduced Mar. 2026, Failed June 2026",2026-03,,Failed,2026-06,https://www.nysenate.gov/legislation/bills/2025/A10715
+New York,NY,S 7963 / A 8523,"Introduced May 2025, Failed June 2026",2025-05,,Failed,2026-06,https://www.nysenate.gov/legislation/bills/2025/S7963
+New York,NY,A 7656,"Introduced Apr. 2025, Failed June 2026",2025-04,,Failed,2026-06,https://www.nysenate.gov/legislation/bills/2025/A7656
+New York,NY,A 6491,"Introduced March 2025, Failed June 2026",2025-03,,Failed,2026-06,https://www.nysenate.gov/legislation/bills/2025/A6491
+New York,NY,S 2414,"Introduced Jan. 2025, Failed June 2026",2025-01,,Failed,2026-06,https://www.nysenate.gov/legislation/bills/2025/S2414
+New York,NY,A 235,"Introduced Jan. 2025, Failed June 2026",2025-01,,Failed,2026-06,https://www.nysenate.gov/legislation/bills/2025/A235
+New York,NY,A 3327,"Introduced Jan. 2025, Failed June 2026",2025-01,,Failed,2026-06,https://www.nysenate.gov/legislation/bills/2025/A3327
+New York,NY,A 7106A,"Introduced in May 2023, Failed June 2024",2023-05,,Failed,2024-06,https://www.nysenate.gov/legislation/bills/2023/A7106/amendment/A
+New York,NY,S 7592,"Introduced in July 2023, Failed June 2024",2023-07,,Failed,2024-06,https://www.nysenate.gov/legislation/bills/2023/S7592
+New York,NY,S 8400A,"Introduced Jan. 2024, Failed June 2024",2024-01,,Failed,2024-06,https://www.nysenate.gov/legislation/bills/2023/S8400/amendment/A
+New York,NY,A 9028,"Introduced Feb. 2024, Failed June 2024",2024-02,,Failed,2024-06,https://www.nysenate.gov/legislation/bills/2023/A9028
+New York,NY,NY State Budget FY 2024-25 (Part MM Subpart B),Enacted April 2024,,2024-04,Enacted,2024-04,https://nyassembly.gov/leg/?default_fld=%0D%0A&leg_video=&bn=8808&term=2023&Summary=Y&Text=Y
+New York,NY,S 9678,Enacted June 2024,,2024-06,Enacted,2024-06,https://www.nysenate.gov/legislation/bills/2023/S9678/amendment/B
+New York,NY,S 8631,"Introduced Feb. 2024, Failed June 2024",2024-02,,Failed,2024-06,https://www.nysenate.gov/legislation/bills/2023/S8631
+North Carolina,NC,H 934,"Introduced Apr. 2025, Failed August 2026",2025-04,,Failed,2026-08,https://www.ncleg.gov/BillLookUp/2025/H934
+North Carolina,NC,H 375,"Introduced March 2025, Failed August 2026",2025-03,,Failed,2026-08,https://www.ncleg.gov/BillLookUp/2025/H375
+North Carolina,NC,SB 880,"Introduced May 2024, Failed Dec. 2024",2024-05,,Failed,2024-12,https://www.ncleg.gov/BillLookUp/2023/S880
+North Carolina,NC,H 1072,"Passed House May 2024, Failed Dec. 2024",,,Failed,2024-12,https://www.ncleg.gov/BillLookUp/2023/H1072
+North Carolina,NC,SB 88,"Passed Senate June 2024, Failed Dec. 2024",,,Failed,2024-12,https://www.ncleg.gov/BillLookUp/2023/S88
+North Dakota,ND,HB 1167,"Passed House Feb. 2025, Passed Sen. Mar. 2025, Enacted Apr. 2025",,2025-04,Enacted,2025-04,https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1167.html
+Ohio,OH,HB 1000,Introduced Sept. 2026,2026-09,,Pending,2026-09,https://www.legislature.ohio.gov/legislation/136/hb1000
+Ohio,OH,HB 362,Introduced June 2025,2025-06,,Pending,2025-06,https://www.legislature.ohio.gov/legislation/136/hb362
+Ohio,OH,HB 185,Introduced Mar. 2025,2025-03,,Pending,2025-03,https://www.legislature.ohio.gov/legislation/136/hb185
+Ohio,OH,HB 367,"Introduced Dec. 2023, Failed Dec. 2024",2023-12,,Failed,2024-12,https://www.legislature.ohio.gov/legislation/135/hb367
+Ohio,OH,HB 410,"Introduced Feb. 2024, Failed Dec. 2024",2024-02,,Failed,2024-12,https://www.legislature.ohio.gov/legislation/135/hb410
+Oklahoma,OK,HB 3299,"Introduced Feb 2026, Failed May 2026",2026-02,,Failed,2026-05,https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3299&Session=2600
+Oklahoma,OK,SB 894,"Introduced Jan. 2025, Laid over until 2026, Failed May 2026",2025-01,,Failed,2026-05,http://www.oklegislature.gov/BillInfo.aspx?Bill=sb894&Session=2500
+Oklahoma,OK,SB 746,"Introduced Jan. 2025, Failed May 2026",2025-01,,Failed,2026-05,http://www.oklegislature.gov/BillInfo.aspx?Bill=sb746&Session=2500
+Oklahoma,OK,HB 3825,Failed May 2024,,,Failed,2024-05,http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3825&Session=2400
+Oklahoma,OK,SB 1655,"Passed Senate Mar. 2024, Failed May 2024",,,Failed,2024-05,http://www.oklegislature.gov/BillInfo.aspx?Bill=sb1655&Session=2400
+Oregon,OR,SB 1571,Enacted Mar. 2024,,2024-03,Enacted,2024-03,https://olis.oregonlegislature.gov/liz/2024R1/Measures/Overview/SB1571
+Pennsylvania,PA,SB 1332,Introduced May 2026,2026-05,,Pending,2026-05,https://www.palegis.us/legislation/bills/2025/sb1332
+Pennsylvania,PA,HB 486 (Audio deepfakes only),Introduced Feb. 2025,2025-02,,Pending,2025-02,https://www.palegis.us/legislation/bills/2025/hb486
+Pennsylvania,PA,SB 649,"Introduced Apr. 2025, Passed Sen. June 2025, Passed House June 2025, Enacted July 2025",2025-04,2025-07,Enacted,2025-07,https://www.legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2025&sind=0&body=S&type=B&bn=649
+Pennsylvania,PA,HB 811,"Introduced Mar. 2025, Passed House Jun 2025",2025-03,,Pending,2025-06,https://www.legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2025&sind=0&body=H&type=B&bn=811
+Pennsylvania,PA,HB 2079,"Introduced Mar. 2024, Failed Dec. 2024",2024-03,,Failed,2024-12,https://www.legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2023&sind=0&body=H&type=B&bn=2079
+Pennsylvania,PA,SB 1217,"Introduced May 2024, Failed Dec. 2024",2024-05,,Failed,2024-12,https://www.legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2023&sind=0&body=S&type=B&bn=1217
+Pennsylvania,PA,HB 2353,"Introduced May 2024, Failed Dec. 2024",2024-05,,Failed,2024-12,https://www.legis.state.pa.us/cfdocs/billinfo/bill_history.cfm?syear=2023&sind=0&body=H&type=B&bn=2353
+Rhode Island,RI,S 816,"Introduced Mar. 2025, Passed Senate and House June 2025, Enacted July 2025",2025-03,2025-07,Enacted,2025-07,https://legiscan.com/RI/bill/S0816/2025
+Rhode Island,RI,HB 5872,"Introduced Feb. 2025, Passed House May 2025, Passed Senate June 2025, Enacted July 2025",2025-02,2025-07,Enacted,2025-07,https://legiscan.com/RI/bill/H5872/2025
+Rhode Island,RI,H 7387,"Passed House May 2024, Failed June 2024",,,Failed,2024-06,https://webserver.rilegislature.gov/BillText/BillText24/HouseText24/H7387.pdf
+South Carolina,SC,H 3517,"Introduced Dec. 2024, Failed May 2026",2024-12,,Failed,2026-05,https://www.scstatehouse.gov/billsearch.php?billnumbers=3517&session126&summary=B
+South Carolina,SC,H 4660,Failed May 2024,,,Failed,2024-05,https://www.scstatehouse.gov/query.php?search=DOC&searchtext=h%204660&category=LEGISLATION&session=125&conid=37916885&result_pos=0&keyval=1254660&numrows=50
+South Dakota,SD,SB 164,"Introduced Jan. 2025, Passed Senate Feb. 2025, Passed House Mar. 2025, Enacted Mar. 2025",2025-01,2025-03,Enacted,2025-03,https://sdlegislature.gov/Session/Bill/26046
+South Dakota,SD,SB 96,"Passed Senate Feb 2024, Failed Feb. 2024",,,Failed,2024-02,https://sdlegislature.gov/Session/Bill/24956
+Tennessee,TN,SB 2321 / HB 2214,"Introduced Feb. 2026, Failed Apr. 2026",2026-02,,Failed,2026-04,https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2321&GA=114
+Tennessee,TN,SB 1624 / HB 1513,"Introduced Jan. 2026, Passed House Mar. 2026, Passed Senate Mar. 2026, Enacted Mar. 2026",2026-01,2026-03,Enacted,2026-03,https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1624&ga=114
+Tennessee,TN,SB 2057,Failed Feb. 2024,,,Failed,2024-02,https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2057&ga=113
+Tennessee,TN,SB 2386,Failed Mar. 2024,,,Failed,2024-03,https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB2386&ga=113
+Tennessee,TN,HB 2340,"Introduced Jan. 2024, Failed April 2024",2024-01,,Failed,2024-04,https://legiscan.com/TN/bill/HB2340/2023
+Texas,TX,HB 142,Introduced July 2025,2025-07,,Pending,2025-07,https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=HB142
+Texas,TX,HB 366,"Introduced Feb. 2025, Passed House Apr. 2025, Failed June 2025",2025-02,,Failed,2025-06,https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB366
+Texas,TX,SB 893,"Introduced Jan. 2025, Passed House Mar. 2025, Failed June 2025",2025-01,,Failed,2025-06,https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB893
+Texas,TX,HB 401,"Introduced Nov. 2024, Failed June 2025",2024-11,,Failed,2025-06,https://capitol.texas.gov/BillLookup/Text.aspx?LegSess=89R&Bill=HB401
+Texas,TX,HB 556,"Introduced Nov. 2024, Failed June 2025",2024-11,,Failed,2025-06,https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB556
+Texas,TX,SB 228,"Introduced Nov. 2024, Failed June 2025",2024-11,,Failed,2025-06,https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB228
+Texas,TX,SB 751,Enacted June 2019,,2019-06,Enacted,2019-06,https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=SB751
+Utah,UT,SB 131,Enacted Mar. 2024,,2024-03,Enacted,2024-03,https://le.utah.gov/~2024/bills/static/SB0131.html
+Vermont,VT,S 23,"Introduced Jan. 2025, Passed Sen. Mar. 2025, Passed House June 2025, Enacted Mar. 2026",2025-01,2026-03,Enacted,2026-03,https://legislature.vermont.gov/bill/status/2026/S.23
+Vermont,VT,H 846,"Platform Requirements Introduced Jan. 2026, Failed May 2026",2026-01,,Failed,2026-05,https://legislature.vermont.gov/bill/status/2026/H.846
+Virginia,VA,SB 775,"Introduced Dec. 2024, Passed both chambers Feb. 2025, Vetoed Mar. 2025",2024-12,,Vetoed,2025-03,https://lis.virginia.gov/bill-details/20251/SB775
+Virginia,VA,HB 2479,"Introduced Jan. 2025, Passed both chambers Feb. 2025, Vetoed Mar. 2025",2025-01,,Vetoed,2025-03,https://lis.virginia.gov/bill-details/20251/HB2479
+Virginia,VA,HB 697,Tabled until 2025 in 2024,,,Pending,2025,https://lis.virginia.gov/cgi-bin/legp604.exe?241+sum+HB697
+Virginia,VA,SB 571,Tabled until 2025 in 2024,,,Pending,2025,https://lis.virginia.gov/cgi-bin/legp604.exe?241+sum+SB571
+Washington,WA,SB 5152,Enacted May 2023,,2023-05,Enacted,2023-05,https://app.leg.wa.gov/billsummary/?billNumber=5152&year=2023&initiative=False
+West Virginia,WV,SB 484,"Introduced Feb. 2025, Failed April 2025",2025-02,,Failed,2025-04,https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=484&year=2025&sessiontype=RS&btype=bill
+West Virginia,WV,HB 4963,"Passed House Feb. 2024, Failed March 2024",,,Failed,2024-03,https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4963%20intr.htm&yr=2024&sesstype=RS&i=4963
+Wisconsin,WI,SB 644,"Introduced Nov. 2023, Failed April 2024",2023-11,,Failed,2024-04,https://docs.legis.wisconsin.gov/2023/related/proposals/sb644
+Wisconsin,WI,AB 664,Enacted Mar. 2024,,2024-03,Enacted,2024-03,https://docs.legis.wisconsin.gov/2023/proposals/ab664
+Wyoming,WY,SF 0051,"Passed Senate Feb. 2024, Failed Mar. 2024",,,Failed,2024-03,https://www.wyoleg.gov/Legislation/2024/SF0051
